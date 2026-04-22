@@ -1,5 +1,5 @@
 # Stone_Paper_Scissors
-🎮 **Stone Paper Scissors Game – Built from Scratch!** 🚀
+🎮 **Stone Paper Scissors Game – Built from Scratch!** 🚀<br>
 Digital version of the game that we grown up playing.
 <br><br>
 Excited to share my mini project where I created a fully interactive **Stone Paper Scissors** game with a clean UI and real-time gameplay logic. This project helped me strengthen my fundamentals and understand how user interaction works behind the scenes.
