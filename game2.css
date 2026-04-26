@@ -1,0 +1,113 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+
+body{
+    background-image: url("game2.background.png");
+    object-fit: cover;
+}
+
+#heading{
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+    color: beige;
+    background-color: black;
+    height: 80px;
+    width: 98%;
+    margin-left: 10px;
+    margin-right: 10px;
+    justify-self: center;
+    line-height: 80px;      /* content will take the same height of element height. */
+    border-radius: 30px;
+}
+
+img{
+   height: 100px;
+   width: 100px;
+   object-fit: cover;
+   border-radius: 50%;
+}
+
+.choice{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    display: flex;
+}
+
+.choice:hover{
+    cursor: pointer;
+    border-radius: 50%;
+    border: 5px solid yellow;
+}
+
+.choices{
+    height: 150px;
+    width: 450px;
+    margin-top: 20px;
+    background-color: #7d4f50;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-self: center;
+    border-radius: 20px;
+}
+
+.score-board{
+    height: 100px;
+    width: 410px;
+    justify-self: center;
+    border-radius: 10px;
+    align-items: center;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#user-score{
+    background-color: #907667;
+    height: 80px;
+    width: 100px;
+    margin: 5px;
+    margin-bottom: 0px;
+    align-items: center;
+    border-radius: 20px;
+}
+
+#computer-score{
+    background-color: #a07f70;
+    height: 80px;
+    width: 120px;
+    margin: 5px;
+    align-items: center;
+    border-radius: 20px;
+}
+
+#user-win-score{
+    color: yellow;
+    font-size: 35px;
+    align-items: center;
+}
+
+#computer-win-score{
+    color: rgb(14, 14, 173);
+    font-size: 35px;
+    align-items: center;
+}
+
+.msg-container{
+    color: wheat;
+    justify-self: center;
+    font-size: 20px;
+    height: 30px;
+    line-height: 30px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: black;
+}
