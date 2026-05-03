@@ -19,3 +19,10 @@ Excited to share my mini project where I created a fully interactive **Stone Pap
 This project was a great hands-on experience in **DOM manipulation, event handling, and game logic building**. Looking forward to building more advanced and impactful projects!
 <br><br>
 #WebDevelopment #JavaScript #FrontendDevelopment #Projects #Coding #GameDevelopment #LearningByDoing 🚀🎯
+
+<br><br>
+🤝 Connect With Me-<br>
+* LinkedIn: https://Linkedin.com/in/zishanahmed45 <br>
+* GitHub: https://github.com/zishan45 <br>
+* LeetCode: https://leetcode.com/u/TJ0GbrR8Fc/ <br>
+* Email: zishanahmed.official@gmail.com <br>
